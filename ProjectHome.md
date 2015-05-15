@@ -1,0 +1,1 @@
+Active Sonar using an Arduino UNO, PING Ultrasonic Sensor and Nokia LCD.
